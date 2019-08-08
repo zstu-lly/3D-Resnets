@@ -6,3 +6,5 @@ At first, I want to use this model to participate in the contest, but I don't ha
 ## paper
 [paper link](https://arxiv.org/abs/1804.09066)
 
+## model 
+![](https://github.com/zstu-lly/3D-Resnets/blob/master/images/model%20architecture.png)
