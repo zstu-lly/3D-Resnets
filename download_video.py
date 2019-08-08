@@ -210,7 +210,7 @@ class Downloader:
 if __name__ == '__main__':
     partition, labels = get_partition_labels()
     mode = "train"
-    train_file_dir = f'../{mode}'
+    train_file_dir = f'{mode}'
     train_generator = Downloader(mode=train_file_dir, ids=partition[mode], clip_length=clip_length)
     train_generator.run()
 
